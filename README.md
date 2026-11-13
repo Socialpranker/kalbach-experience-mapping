@@ -1,3 +1,5 @@
+<img src="assets/logo.svg" width="96" height="96" alt="kalbach-experience-mapping logo">
+
 # Mapping Experiences — Agent Skill
 
 Agent skill generated from **[*Mapping Experiences*](https://www.oreilly.com/library/view/mapping-experiences/9781491923528/)** by James Kalbach (O'Reilly, 2015) with [book-to-skill](https://github.com/virgiliojr94/book-to-skill).

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="kalbach-experience-mapping logo">
+<rect width="256" height="256" rx="56" fill="#14161B"/>
+<g fill="none" stroke="#F2EFE8" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+<polyline points="62,96 106,152 150,86 194,150"/>
+<circle cx="62" cy="96" r="9" fill="#14161B"/><circle cx="150" cy="86" r="9" fill="#14161B"/><circle cx="194" cy="150" r="9" fill="#14161B"/><circle cx="106" cy="152" r="13" fill="#B48CF2" stroke="#B48CF2"/>
+</g>
+</svg>
